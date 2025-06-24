@@ -5,13 +5,12 @@ body {
   font-size: 16px;
   line-height: 1.6;
   padding: 2rem;
-  max-width: 700px;
+  max-width: 80%;
   margin: auto;
 }
 
 .markdown-body {
   background-color: #111111;
-  padding: 1rem;
 }
 
 /* Headings */
@@ -23,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Links */
 a {
-  color: #b705c4;                  /* purple links */
+  color: #b4b7b3;                  /* purple links */
   text-decoration: underline;
 }
 
