@@ -11,6 +11,12 @@ body {
 
 .markdown-body {
   background-color: #111111;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 12px;
+  border: 2px solid #32c405;
 }
 
 /* Headings */
@@ -23,11 +29,11 @@ h1, h2, h3, h4, h5, h6 {
 /* Links */
 a {
   color: #b4b7b3;                  /* purple links */
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 /* Bold Text */
