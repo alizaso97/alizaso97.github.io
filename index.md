@@ -2,7 +2,7 @@
 
 # Allison Lizaso
 
-| Emmett, ID | (208)369-3197 | [alizaso97@gmail.com](mailto:alizaso97@gmail.com)|
+Emmett, ID | (208)369-3197 | [alizaso97@gmail.com](mailto:alizaso97@gmail.com)
 
 ## Work Experience
 
@@ -49,7 +49,6 @@
 ## Education
 
 **Boise State University – Boise, ID**
-
 *Expected May 2027*  
 - Cyber Operations and Resilience B.S. 
 - Computer Science Minor
