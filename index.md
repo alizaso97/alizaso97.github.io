@@ -3,7 +3,6 @@
 # Allison Lizaso
 
 - Emmett, ID
-- (208)369-3197
 - [alizaso97@gmail.com](mailto:alizaso97@gmail.com)
 
 ## Work Experience
@@ -54,7 +53,7 @@
 - Cyber Operations and Resilience B.S. 
 - Computer Science Minor
 
-*Expected May 2027*
+*Expected to Graduate in May 2027*
 
 ## Skills
 
