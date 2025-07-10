@@ -17,7 +17,7 @@
 *Boise State University Office of Information Technology – Boise, ID*  
 *September 2024 – June 2025*  
 - Managed device upgrades for faculty and staff using PXE Boot, SCCM, Active Directory, Jamf, and Apple School Manager
-- Assisted full-time OIT staff with printer troubleshooting and maintentance across campus
+- Assisted full-time OIT staff with printer troubleshooting and maintenance across campus
 
 **STEP-1 Participant**  
 *ACCESS-CI – Miami, FL*  
