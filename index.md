@@ -22,14 +22,14 @@
 **STEP-1 Participant**  
 *ACCESS-CI – Miami, FL*  
 *May 2024*  
-- Participated in workshops focused on cybersecurity, networking, and cloud computing
-- Gained exposure to NSF ACCESS-CI high performance computing systems through facility tours and professional networking opportunities
+- Participated in educational workshops focused on high-performance computing, open and responsible research, cloud computing, cybersecurity, and networking
+- Gained exposure to the applications of HPC systems through facility tours and researcher presentations
 
 **Instructional Technologist**  
 *Boise State University Learning Technology Solutions – Boise, ID*  
 *January 2024 – August 2024*  
 - Maintained and updated an Atlassian Confluence knowledge base for Canvas LMS support  
-- Communicated with users via ServiceNow ITSM software to resolve incidents and service requests
+- Communicated with users through ServiceNow ITSM tickets to resolve incidents and service requests
 
 **IT Support Technician**  
 *Boise State University Student Media Department – Boise, ID*  
@@ -40,13 +40,14 @@
 **Wastewater Collections Operator**  
 *City of Caldwell – Caldwell, ID*  
 *September 2021 – April 2023*  
-- Collected and interpreted PACP inspection data in order to recommend cost-effective solutions
+- Collected and interpreted PACP inspection data in order to recommend cost-effective pipeline repair solutions
 - Operated a Vactor 2100i sewer truck for wastewater collection system maintenance
 
 ## Awards and Certifications
 
-- **Micron Academy for Inclusive Leadership** – Scholarship Recipient and Fellow | *August 2023 - May 2025*  
-- **Sage Technical Academy** – CDL with Doubles, Triples, and Tanker endorsements | *September 2018*
+- **Community Impact Program** - Scholarship Recipient and Program Member / *August 2024 - May 2025*
+- **Micron Academy for Inclusive Leadership** – Scholarship Recipient and Fellow / *August 2023 - May 2025*  
+- **Sage Technical Academy** – CDL with Doubles, Triples, and Tanker endorsements / *September 2018*
 
 ## Education
 
