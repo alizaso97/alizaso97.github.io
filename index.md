@@ -64,3 +64,7 @@
 - **HPC and Cybersecurity:** Splunk, Elasticsearch, Kubernetes, Puppet, Ansible, Qualys, Jira
 - **Municipal Wastewater:** Wonderware SCADA, WinCan, PACP Inspection, Envirosight, ArcGIS
 
+## More Information
+
+- [About](./about.md)
+- [Projects](./projects.md)

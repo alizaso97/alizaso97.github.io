@@ -1,6 +1,9 @@
 <link rel="stylesheet" href="style.css">
 
-# About
-- **Educational Goals:** To become more familiar with industry tools, defensive security practices, digital forensics, and securing cloud-based environments
-- **Professional Goals:** After I graduate, I would like to work as a security operations analyst in high-performance/research computing. I'm also interested in security for industrial control systems and Linux systems
-- **Fun Goals:** Travel to the Basque country in Spain, see the Hobbit Holes in New Zealand, and I've played the guitar for 22 years so... buy as many guitars as humanly possible! 
+# More About Me
+
+- **Educational Goals:** To become more familiar with industry tools, defensive security practices, digital forensics, and security for cloud-based environments
+
+- **Professional Goals:** I'm interested in careers involving cybersecurity for industrial control systems, high-performance computers, and Linux systems
+
+- **Fun Goals:** I've played guitar for 22 years, so I'd like to own as many guitars and musical instruments as possible! I also enjoy camping and kayaking with friends, going to concerts, and traveling. My biggest travel goal is to visit the Basque country in Spain.
