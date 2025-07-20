@@ -10,37 +10,38 @@
 **STEP-2 Participant**  
 *National Center for Supercomputing Applications – Champaign, IL*  
 *June 2025 – August 2025*  
-- Collaborated with NCSA SecOps Analysts for hands-on experience in HPC cybersecurity  
-- Analyzed Qualys data, Linux system logs, and DNS records in order to identify and remove inactive service principals
+- Worked on-site with SecOps Analysts to collect Qualys data, Linux system logs, and DNS records in order to remove inactive service principals 
+- Assisted in the migration of existing configuration management code from Puppet to Ansible
 
 **Student Technical Support Specialist**  
 *Boise State University Office of Information Technology – Boise, ID*  
 *September 2024 – Present*  
-- Managed device upgrades using PXE Boot, SCCM, and Active Directory
+- Deployed campus devices using PXE Boot, Apple School Manager, JAMF, SCCM, and Active Directory
+- Collaborated with team members across the Office of Information Technology
 
 **STEP-1 Participant**  
 *ACCESS-CI – Miami, FL*  
 *May 2024*  
-- Participated in workshops focused on cybersecurity, networking, and cloud computing
-- Gained exposure to NSF ACCESS-CI high performance computing systems
+- Participated in two weeks of educational workshops related to cybersecurity, networking, and cloud computing
+- Engaged with instructors and vendors to learn about the NSF ACCESS-CI high-performance computer systems
 
 **Instructional Technologist**  
 *Boise State University Learning Technology Solutions – Boise, ID*  
 *January 2024 – August 2024*  
-- Maintained and updated an Atlassian Confluence knowledge base for educational technology support  
-- Communicated with users via ServiceNow ITSM software to resolve incidents and service requests
+- Sustained and updated an established knowledge base, enhancing educational technology support documentation for effective user guidance and issue resolution
+- Utilized IT service management software to communicate with users for prompt resolution of technology incidents and service requests
 
 **IT Support Technician**  
 *Boise State University Student Media Department – Boise, ID*  
 *August 2023 – May 2024*  
-- Provided hardware and software support to staff  
-- Managed equipment rotation and procurement within department budget
+- Assisted Student Media staff with hardware and software issues
+- Implemented an existing device rotation plan and worked within the department's budget to purchase new hardware
 
 **Wastewater Collections Operator**  
 *City of Caldwell – Caldwell, ID*  
 *September 2021 – April 2023*  
-- Interpreted PACP inspection data and recommended cost-effective solutions  
-- Operated Vactor 2100i sewer truck for system maintenance
+- Conveyed PACP inspection data, effectively articulating findings and advocating for cost-effective solutions
+- Operated a Vactor 2100i sewer truck in order to contribute to the maintenance and efficiency of wastewater systems
 
 ## Awards and Certifications
 
