@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Projects
 
 ## Virtual Data Center Tours (UNDER CONSTRUCTION)
