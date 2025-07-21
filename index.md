@@ -8,8 +8,8 @@
 
 Rising junior at Boise State University, interested in HPC cybersecurity and Linux development
 ## Skills
-- Soft Skills: DEIB, Technical Writing, Professional Communication, Remote Collaboration
-- Technical Skills: Shell Scripting, ITSM, Qualys, Splunk, Kubernetes, Elasticsearch, Linux
+- **Soft Skills**: DEIB, Technical Writing, Professional Communication, Remote Collaboration
+- **Technical Skills**: Shell Scripting, ITSM, Qualys, Splunk, Kubernetes, Elasticsearch, Linux
 
 ## Awards and Certifications
 
