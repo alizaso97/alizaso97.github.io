@@ -2,7 +2,7 @@
 
 # More About Me
 
-- **Educational Goals:** To become more familiar with industry tools, defensive security practices, digital forensics, and security for cloud-based environments.
+- **Educational Goals:** To become more familiar with industry tools, cybersecurity practices, digital forensics, and security for cloud-based environments.
 
 - **Professional Goals:** Interested in cybersecurity careers, specifically with high-performance computing and Linux systems.
 
